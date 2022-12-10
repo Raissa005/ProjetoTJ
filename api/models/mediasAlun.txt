@@ -1,0 +1,5 @@
+aluno1  nt1= 7,00 nt2= 7,00 nt3= 8,00
+
+aluno2 nt1= 6,00 nt2= 9,00 nt3= 8,00
+
+aluno3 nt1= 5,00 nt2= 7,00 nt= 7,00
