@@ -1,4 +1,4 @@
-Este é um projeto básico feito apenas no apenas em tela preta sobre ultilidades públicas de tijucas.
+Este é um projeto básico feito apenas apenas em tela preta sobre utilidades públicas de Tijucas.
 
 Para ultilizar este projeto 
 
